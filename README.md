@@ -9,7 +9,7 @@ This lab was split into 3 parts. In Part 1, students examined tools and toolboxe
 
 Your README should explain briefly what you did in the lab and clearly list the contents of the repo and explain what it is so that someone who is not in the class can look at your repo and understand both the lab and the outputs. In example, “file.flooding.py is a Python script for use in ArcMap. The script takes some inputs and then outputs something else…” For guidance on things you should include in your readme, or how to structure it nicely using markdown, [see this web page](https://www.makeareadme.com/). 
 
-![](bike_paths.PNG)
+![](bike_paths.png)
 
 # The Code
 The two scripts are meant to be run using shapefiles provided for this class with file paths and names specific to the student submission. If questions arise, users can contact Jess Strzempko at JeStrzempko@clarku.edu for more help and further information.
